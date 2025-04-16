@@ -41,8 +41,6 @@ python doc_parser.py --url https://google.github.io/adk-docs/ --out-dir ./md_out
 
 
 
-Добавьте эти строки в файл `.gitignore` перед публикацией на GitHub.
-
 ## Лицензия
 
 MIT

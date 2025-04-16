@@ -39,12 +39,7 @@ python doc_parser.py --url <URL_документации> --out-dir <дирек�
 python doc_parser.py --url https://google.github.io/adk-docs/ --out-dir ./md_output
 ```
 
-## Игнорируемые файлы
 
-```gitignore
-venv/
-md_output/
-```
 
 Добавьте эти строки в файл `.gitignore` перед публикацией на GitHub.
 
